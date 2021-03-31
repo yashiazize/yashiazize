@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on being an amazing frontend web developer. 
 - 🌱 I’m currently learning React 
 - 🤔 I’m looking for help with how to make app ideas come to fruition 
