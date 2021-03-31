@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 ## Image
 
-![spongebob gif](https://media4.giphy.com/media/bkcbX8SqTCXHG/giphy.gif)
+![spongebob gif](https://media1.giphy.com/media/3o6wNIV9FP28JIleyk/giphy.gif)
