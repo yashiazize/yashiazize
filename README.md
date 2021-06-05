@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on being an amazing frontend web developer. 
-- 🌱 I’m currently learning React 
-- 🤔 I’m looking for help with how to make app ideas come to fruition 
-- 💬 Ask me about anything that involves video games, movies, tv, and trivia. 
-- ⚡ Fun fact: Not really fun, but I drowned twice in one day when I was 10. 
+- 🔭 I’m currently working on being an amazing fullstack web developer. 
+- 🌱 Recently learned React, currently learning Backend. 
+- 🤔 I’m looking for help with how to make app ideas come to fruition.
+- 💬 Ask me about anything that involves video games, movies, tv, and trivia, and coding :). 
+
 
 
 
