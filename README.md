@@ -2,7 +2,7 @@
 
 
  - 🔭 I’m currently working on being an amazing fullstack web developer. 
- - 🌱 Recently learned React, currently learning how to link the Backend to the Frontend. 
+ - 🌱 Recently completed a year long web development fellowship with Pursuit, currently working on Personal Website and open to jobs. 
  - 🤔 I’m looking for help with how to make app ideas come to fruition.
  - 📺 I am an avid drawer, cine-phile, and gamer. I am passionate about
  sharing ideas and stories through the utilization of gaming, illustrations 
